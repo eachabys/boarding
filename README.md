@@ -1,2 +1,2 @@
 # boarding
-Solutions to whiteboarding problems Week 1
+Solutions to whiteboarding problems Weeks 1 and 2
